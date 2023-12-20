@@ -24,12 +24,13 @@ while scroll_count < max_scrolls:
         scroll_count += 1
         time.sleep(1)
 
-while scroll_count2 < 1000:
+while scroll_count2 < 100:
     inner_div = driver.find_element(By.XPATH,
                         '//*[@id="simpleRegistryList"]')
-    driver.execute_script('arguments[0].scrollTop = arguments[1];', inner_div, 500)
+    driver.execute_script('arguments[0].scrollBy(0, 500)', inner_div, 500)
     scroll_count2 += 1
     time.sleep(1)
+
 objects = driver.find_elements(By.CSS_SELECTOR, 'div.panel-body')
 
 print(objects)

@@ -1,8 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from bs4 import BeautifulSoup
 import time
 
 driver = webdriver.Firefox()
@@ -11,8 +8,9 @@ url = "https://knd.gov.ru/simpleregistry"
 
 driver.get(url)
 
-max_scrolls = 10
+max_scrolls = 500
 scroll_count = 0
+scroll_count2 = 0
 
 while scroll_count < max_scrolls:
     try:
@@ -26,23 +24,27 @@ while scroll_count < max_scrolls:
         scroll_count += 1
         time.sleep(1)
 
-time.sleep(5)
+while scroll_count2 < 1000:
+    inner_div = driver.find_element(By.XPATH,
+                        '//*[@id="simpleRegistryList"]')
+    driver.execute_script('arguments[0].scrollTop = arguments[1];', inner_div, 500)
+    scroll_count2 += 1
+    time.sleep(1)
+objects = driver.find_elements(By.CSS_SELECTOR, 'div.panel-body')
 
-objects = driver.find_elements(By.XPATH,
-                               '/html/body/div[1]/div[1]/div/div/div/div/div/div/div[2]/div/div/div/div/licenses-widget/div/simple-registry/div[2]/div[1]/div')
+print(objects)
 
-for obj in objects:
-    obj.click()
+# for i in range(len(objects)):
+#     objects[i].click()
+#
+#     time.sleep(3)
+#     #print(f"Processing object {i + 1}:\n{driver.page_source}")
+#
+#     back_button_xpath = '/html/body/div[1]/div[1]/div/div/div/div/div/div/div[2]/div/div/div/div/licenses-widget/div/simple-registry-record/div[1]/div/div/div/button'
+#     back_button = driver.find_element(By.XPATH, back_button_xpath)
+#     driver.execute_script("arguments[0].click();", back_button)
+#
+#     time.sleep(3)
 
-    time.sleep(3)
-
-    html_content = driver.page_source
-    soup = BeautifulSoup(html_content, 'html.parser')
-    back_button_xpath = '/html/body/div[1]/div[1]/div/div/div/div/div/div/div[2]/div/div/div/div/licenses-widget/div/simple-registry-record/div[1]/div/div/div/button'
-    back_button = driver.find_element(By.XPATH, back_button_xpath)
-    driver.execute_script("arguments[0].click();", back_button)
-
-    time.sleep(3)
-
+# Close the browser after use
 driver.quit()
-

@@ -478,3 +478,485 @@ Read port: 53423
 WebDriver BiDi listening on ws://127.0.0.1:53401
 1703520432417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 DevTools listening on ws://127.0.0.1:53401/devtools/browser/9e4601d9-8676-43cc-b882-678382dd3986
+1703520452815	Marionette	INFO	Stopped listening on port 53423
+1703597705528	Marionette	INFO	Stopped listening on port 50354
+1703687376073	geckodriver	INFO	Listening on 127.0.0.1:60701
+1703687376580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileqRKoxp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:29:37.231 firefox-bin[42703:1646900] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703687377519	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703687378026	Marionette	INFO	Listening on port 60719
+Read port: 60719
+WebDriver BiDi listening on ws://127.0.0.1:60702
+1703687378123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60702/devtools/browser/053f2008-fb23-4a1a-a625-c6b8afebbb9f
+1703687405888	Marionette	INFO	Stopped listening on port 60719
+1703687419864	geckodriver	INFO	Listening on 127.0.0.1:60847
+1703687420381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile0vZLUG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:30:21.022 firefox-bin[42759:1648135] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703687421157	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703687421615	Marionette	INFO	Listening on port 60858
+Read port: 60858
+WebDriver BiDi listening on ws://127.0.0.1:60848
+1703687421710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60848/devtools/browser/d2845fec-ed09-4c22-9233-1a52cc4f170a
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703687487679	geckodriver	INFO	Listening on 127.0.0.1:61012
+1703687488199	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilen15xYi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:31:28.808 firefox-bin[42827:1649853] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703687489048	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703687489486	Marionette	INFO	Listening on port 61023
+WebDriver BiDi listening on ws://127.0.0.1:61013
+Read port: 61023
+1703687489771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61013/devtools/browser/59540557-eb1b-44a2-8db2-214999688298
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703687802342	geckodriver	INFO	Listening on 127.0.0.1:61582
+1703687802864	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilesn2OWe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:36:43.516 firefox-bin[42949:1654935] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703687803818	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703687804310	Marionette	INFO	Listening on port 61593
+Read port: 61593
+WebDriver BiDi listening on ws://127.0.0.1:61583
+1703687804413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61583/devtools/browser/99857bec-dbdf-4e75-8e1c-152a5c097509
+1703687810331	Marionette	INFO	Stopped listening on port 61593
+1703687894647	geckodriver	INFO	Listening on 127.0.0.1:61757
+1703687895170	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile0W7Kir"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:38:15.810 firefox-bin[43015:1656918] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703687896126	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703687896619	Marionette	INFO	Listening on port 61774
+Read port: 61774
+WebDriver BiDi listening on ws://127.0.0.1:61758
+1703687896720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61758/devtools/browser/76e25a0c-4d20-4153-9809-26bfb3c409ce
+1703687924377	Marionette	INFO	Stopped listening on port 61774
+1703688020954	geckodriver	INFO	Listening on 127.0.0.1:62019
+1703688021471	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileJZNGmi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:40:22.114 firefox-bin[43082:1659342] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688022399	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688022884	Marionette	INFO	Listening on port 62031
+WebDriver BiDi listening on ws://127.0.0.1:62020
+Read port: 62031
+1703688023041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62020/devtools/browser/ce22eead-3ee2-482f-aa33-dca89ef4c822
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703688117267	geckodriver	INFO	Listening on 127.0.0.1:62241
+1703688117778	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile43n16E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:41:58.466 firefox-bin[43155:1661686] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688118622	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688119196	Marionette	INFO	Listening on port 62252
+WebDriver BiDi listening on ws://127.0.0.1:62242
+Read port: 62252
+1703688119465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62242/devtools/browser/51b37219-d97c-48f7-afe1-671c56b64968
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703688125450	geckodriver	INFO	Listening on 127.0.0.1:62299
+1703688125965	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilea9ROL7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:42:06.304 firefox-bin[43206:1662330] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688126445	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688126699	Marionette	INFO	Listening on port 62308
+WebDriver BiDi listening on ws://127.0.0.1:62300
+Read port: 62308
+1703688126920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62300/devtools/browser/5baf23b9-f684-4f3d-9f04-96a317aaba49
+1703688174363	geckodriver	INFO	Listening on 127.0.0.1:62419
+1703688174888	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile8GcsoJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:42:55.349 firefox-bin[43258:1663881] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688175578	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688176022	Marionette	INFO	Listening on port 62429
+Read port: 62429
+WebDriver BiDi listening on ws://127.0.0.1:62420
+1703688176125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62420/devtools/browser/3b8d7abc-fa2d-4aef-b123-4b05443f8dd0
+1703688204411	Marionette	INFO	Stopped listening on port 62429
+1703688295528	geckodriver	INFO	Listening on 127.0.0.1:62667
+1703688296051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileQYAy1E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:44:56.528 firefox-bin[43330:1666030] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688296785	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688297242	Marionette	INFO	Listening on port 62678
+WebDriver BiDi listening on ws://127.0.0.1:62668
+Read port: 62678
+1703688297488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62668/devtools/browser/6f693412-9103-4ae5-8683-f4316f9e8224
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703688349776	geckodriver	INFO	Listening on 127.0.0.1:62830
+1703688350294	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileN8E3qE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:45:50.742 firefox-bin[43399:1667474] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688350963	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688351393	Marionette	INFO	Listening on port 62840
+WebDriver BiDi listening on ws://127.0.0.1:62831
+Read port: 62840
+1703688351593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62831/devtools/browser/d110b5eb-4b82-4463-8c94-911c4806d431
+1703688376884	Marionette	INFO	Stopped listening on port 62840
+1703688396405	geckodriver	INFO	Listening on 127.0.0.1:62950
+1703688396922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileQUSNTC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:46:37.388 firefox-bin[43456:1668864] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688397602	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688398015	Marionette	INFO	Listening on port 62960
+WebDriver BiDi listening on ws://127.0.0.1:62951
+Read port: 62960
+1703688398297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62951/devtools/browser/bc075e1a-72d3-4db1-86f3-5b294f93efad
+1703688429392	Marionette	INFO	Stopped listening on port 62960
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+1703688697984	geckodriver	INFO	Listening on 127.0.0.1:63613
+1703688698501	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilexcr6yj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:51:38.968 firefox-bin[43652:1675348] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688699052	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688699492	Marionette	INFO	Listening on port 63622
+WebDriver BiDi listening on ws://127.0.0.1:63614
+Read port: 63622
+1703688699661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63614/devtools/browser/710b2510-7fb3-4f1c-85ee-cb7a7c0f083c
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703688757915	geckodriver	INFO	Listening on 127.0.0.1:63770
+1703688758426	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileHN2JTJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 17:52:38.919 firefox-bin[43733:1677424] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703688759209	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703688759641	Marionette	INFO	Listening on port 63779
+WebDriver BiDi listening on ws://127.0.0.1:63771
+Read port: 63779
+1703688759873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63771/devtools/browser/5048f945-522c-4285-94a0-a1728e3239e5
+1703688785533	Marionette	INFO	Stopped listening on port 63779
+1703692176269	geckodriver	INFO	Listening on 127.0.0.1:52956
+1703692176791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilecr9xuf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 18:49:37.431 firefox-bin[44289:1718714] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703692177719	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703692178192	Marionette	INFO	Listening on port 52969
+WebDriver BiDi listening on ws://127.0.0.1:52957
+Read port: 52969
+1703692178431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52957/devtools/browser/8ad458ef-94be-4fd9-b0c7-e658443097f0
+1703692204689	Marionette	INFO	Stopped listening on port 52969
+1703692650590	Marionette	INFO	Stopped listening on port 62308
+1703693013041	geckodriver	INFO	Listening on 127.0.0.1:55723
+1703693013567	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile3jqt7W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:03:34.208 firefox-bin[44813:1735743] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693014495	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693014974	Marionette	INFO	Listening on port 55747
+WebDriver BiDi listening on ws://127.0.0.1:55724
+Read port: 55747
+1703693015138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55724/devtools/browser/605acb71-fd4d-4be4-a805-b77df32c6d4b
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703693174269	geckodriver	INFO	Listening on 127.0.0.1:56681
+1703693174788	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilewgkLPe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:06:15.357 firefox-bin[44904:1738456] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693175584	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693175983	Marionette	INFO	Listening on port 56707
+WebDriver BiDi listening on ws://127.0.0.1:56682
+Read port: 56707
+1703693176135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56682/devtools/browser/e031d354-c84b-4189-8433-6e2e36278173
+1703693190826	geckodriver	INFO	Listening on 127.0.0.1:56820
+1703693191346	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile3NigSc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:06:31.665 firefox-bin[44950:1739150] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693191824	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693192002	Marionette	INFO	Listening on port 56835
+WebDriver BiDi listening on ws://127.0.0.1:56821
+Read port: 56835
+1703693192212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56821/devtools/browser/1aa7a387-a0af-413a-8e44-096bab128105
+1703693227132	geckodriver	INFO	Listening on 127.0.0.1:57068
+1703693227638	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilea1W4Fo"
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:07:08.111 firefox-bin[45007:1740307] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693228331	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693228719	Marionette	INFO	Listening on port 57091
+WebDriver BiDi listening on ws://127.0.0.1:57069
+Read port: 57091
+1703693228998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57069/devtools/browser/e9009adc-9a7b-49ca-9330-4d45d6ad6ed6
+1703693250204	Marionette	INFO	Stopped listening on port 56835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1703693251568	Marionette	INFO	Stopped listening on port 57091
+1703693286350	geckodriver	INFO	Listening on 127.0.0.1:57446
+1703693286872	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileLcNKQW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:08:07.279 firefox-bin[45073:1741694] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693287519	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693287846	Marionette	INFO	Listening on port 57463
+WebDriver BiDi listening on ws://127.0.0.1:57447
+Read port: 57463
+1703693288105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57447/devtools/browser/3bd25ff6-783d-41de-8c86-0925801d1088
+1703693375900	geckodriver	INFO	Listening on 127.0.0.1:57997
+1703693376423	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileVScTrM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:09:36.973 firefox-bin[45141:1743803] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693377291	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693377786	Marionette	INFO	Listening on port 58023
+WebDriver BiDi listening on ws://127.0.0.1:57998
+Read port: 58023
+1703693378161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57998/devtools/browser/13bd9ac1-c648-470b-be6e-e89e85129fee
+1703693447100	Marionette	INFO	Stopped listening on port 56707
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703693448169	Marionette	INFO	Stopped listening on port 57463
+1703693449643	Marionette	INFO	Stopped listening on port 58023
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703693452117	geckodriver	INFO	Listening on 127.0.0.1:58481
+1703693452637	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileW8SH0a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:10:53.046 firefox-bin[45215:1745481] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693453158	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693453636	Marionette	INFO	Listening on port 58502
+WebDriver BiDi listening on ws://127.0.0.1:58482
+Read port: 58502
+1703693453906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58482/devtools/browser/940b10a7-e614-435c-a554-0dbfdd39ab83
+1703693474211	geckodriver	INFO	Listening on 127.0.0.1:58650
+1703693474731	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileXLm8YH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:11:15.053 firefox-bin[45274:1746468] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693475215	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693475483	Marionette	INFO	Listening on port 58662
+WebDriver BiDi listening on ws://127.0.0.1:58651
+Read port: 58662
+1703693475690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58651/devtools/browser/84b8f9be-86c9-4ec4-bc7a-20ec14b2c1ce
+1703693581373	geckodriver	INFO	Listening on 127.0.0.1:59225
+1703693581898	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilepmxpFA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:13:02.420 firefox-bin[45406:1749524] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693582695	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693583139	Marionette	INFO	Listening on port 59252
+Read port: 59252
+WebDriver BiDi listening on ws://127.0.0.1:59226
+1703693583239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59226/devtools/browser/ed0d0a57-7420-4ee9-af04-c47b2285ee8c
+1703693762747	geckodriver	INFO	Listening on 127.0.0.1:60299
+1703693763269	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile2Plf8K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:16:03.802 firefox-bin[45589:1754611] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693764103	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693764637	Marionette	INFO	Listening on port 60323
+WebDriver BiDi listening on ws://127.0.0.1:60300
+Read port: 60323
+1703693764983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60300/devtools/browser/39f5d26a-8df1-405b-b2b1-d482c6389918
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703693876476	Marionette	INFO	Stopped listening on port 58502
+1703693877519	Marionette	INFO	Stopped listening on port 58662
+1703693878786	Marionette	INFO	Stopped listening on port 59252
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703693882740	geckodriver	INFO	Listening on 127.0.0.1:61006
+1703693883264	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileV0RmJt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:18:03.632 firefox-bin[45663:1757027] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693883859	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693884233	Marionette	INFO	Listening on port 61029
+WebDriver BiDi listening on ws://127.0.0.1:61007
+Read port: 61029
+1703693884527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61007/devtools/browser/c9b4b06c-034f-418f-b8b2-fc503a2e0726
+1703693996229	geckodriver	INFO	Listening on 127.0.0.1:61692
+1703693996751	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile3RmI0G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:19:57.118 firefox-bin[45721:1759340] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703693997325	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703693997670	Marionette	INFO	Listening on port 61709
+WebDriver BiDi listening on ws://127.0.0.1:61693
+Read port: 61709
+1703693997788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1703693998968	Marionette	INFO	Stopped listening on port 61029
+DevTools listening on ws://127.0.0.1:61693/devtools/browser/a893d9df-a410-490f-9d1f-c9be3f45e99f
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703694056799	geckodriver	INFO	Listening on 127.0.0.1:62084
+1703694057321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile0TEWos"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:20:57.635 firefox-bin[45771:1760642] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703694057796	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703694057964	Marionette	INFO	Listening on port 62095
+WebDriver BiDi listening on ws://127.0.0.1:62085
+Read port: 62095
+1703694058167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62085/devtools/browser/bcee89c9-0b87-4501-9e40-e07651ccf3dc
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703694081874	geckodriver	INFO	Listening on 127.0.0.1:62259
+1703694082396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofileS0U2oM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:21:22.716 firefox-bin[45822:1761534] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703694082875	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703694083127	Marionette	INFO	Listening on port 62271
+WebDriver BiDi listening on ws://127.0.0.1:62260
+Read port: 62271
+1703694083339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62260/devtools/browser/2ebd26de-7f71-4749-a892-38ffb43a5324
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703694101401	geckodriver	INFO	Listening on 127.0.0.1:62401
+1703694101913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofile8frbu5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:21:42.191 firefox-bin[45869:1762298] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703694102446	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703694102606	Marionette	INFO	Listening on port 62414
+WebDriver BiDi listening on ws://127.0.0.1:62402
+Read port: 62414
+1703694102755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62402/devtools/browser/090aeaf5-f509-4a4b-82b0-2cd0829a5c27
+1703694103841	Marionette	INFO	Stopped listening on port 61709
+1703694141939	geckodriver	INFO	Listening on 127.0.0.1:62679
+1703694142461	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilecQ15Zu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:22:22.783 firefox-bin[45940:1763689] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703694142945	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703694143199	Marionette	INFO	Listening on port 62696
+WebDriver BiDi listening on ws://127.0.0.1:62680
+Read port: 62696
+1703694143449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62680/devtools/browser/e5363ac9-230b-478d-a0bd-a11fb65692bc
+1703694144793	Marionette	INFO	Stopped listening on port 62414
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/language-dictionaries getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1703694189665	geckodriver	INFO	Listening on 127.0.0.1:63003
+1703694190177	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/vb3qvw853896c95kldvtvrdc0000gn/T/rust_mozprofilenwNiqi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-27 19:23:10.474 firefox-bin[46001:1765057] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1703694190629	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1703694190790	Marionette	INFO	Listening on port 63016
+WebDriver BiDi listening on ws://127.0.0.1:63004
+Read port: 63016
+1703694190987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63004/devtools/browser/85b49c76-bca2-4341-898b-9a25c2829ac0

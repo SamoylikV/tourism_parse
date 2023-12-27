@@ -21,20 +21,22 @@ while scroll_count < max_scrolls:
         driver.execute_script('arguments[0].scrollIntoView(true);', link_to_hotels_registry)
         link_to_hotels_registry.click()
         break
-    except:
+    except Exception:
         driver.execute_script("window.scrollBy(0, 500);")
         scroll_count += 1
         time.sleep(1)
 
-while scroll_count2 < 10:
+while scroll_count2 < 20:
     inner_div = driver.find_element(By.XPATH, '//*[@id="simpleRegistryList"]')
     driver.execute_script('arguments[0].scrollBy(0, 500)', inner_div, 500)
     scroll_count2 += 1
     time.sleep(1)
 
-data_list = []
 num_list = []
-objects = driver.find_elements(By.CSS_SELECTOR, 'div.panel:nth-child(2) > div:nth-child(1) > div:nth-child(1)')
+objects = driver.find_elements(By.CLASS_NAME, 'display-inline-block')
 for obj in objects:
-    print((obj.text).split('Порядковый номер в едином перечне классифицированных гостиниц')[1].split('Дата')[0])
+    if len(obj.text) > 14:
+        num_list.append(obj.text.split('Порядковый номер в едином перечне классифицированных гостиниц')[1].split('Дата')[0])
+
+print(num_list)
 driver.quit()
